@@ -1,1 +1,1 @@
-# x1mandi.github.io
+This repository is licensed under MIT (c) 2019 GitHub, Inc.
