@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 minima:
   date_format: "%b %-d, %Y"
   
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
 
 plugins:
  - jekyll-feed
