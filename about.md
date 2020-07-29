@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 I am from Budapest, Hungary and this is my technical blog.
 
 I am planning to collect my adventures with the Perl programming language, and collect my artifacts (anything useful found or invented during work, life, practicing, etc).
