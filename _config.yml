@@ -18,7 +18,8 @@ plugins:
 
 theme: minima
 
-# social links
+#Generate social links in the footer
+social links:
   github_username:  x1mandi # DO NOT include the @ character, or else the build will fail!
   linkedin_username: csaba-simandi-17688a7a # DO NOT include the @ character, or else the build will fail!
   # devto: jekyll
