@@ -10,6 +10,14 @@ description: > # this means to ignore newlines until "baseurl:"
 minima:
   date_format: "%b %-d, %Y"
   
+show_excerpts: false # set to false to remove excerpts on the homepage
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+theme: minima
+
 # social links
   github_username:  x1mandi # DO NOT include the @ character, or else the build will fail!
   linkedin_username: csaba-simandi-17688a7a # DO NOT include the @ character, or else the build will fail!
@@ -46,12 +54,4 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
-show_excerpts: false # set to false to remove excerpts on the homepage
-
-theme: minima
-
 
